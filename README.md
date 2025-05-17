@@ -4,7 +4,10 @@ A comprehensive computational physics simulation of quantum tunneling phenomena 
 
 ## Video Demonstration
 
-![Demo](quantum_tunneling (3).gif)
+
+![quantum_tunneling (3)](https://github.com/user-attachments/assets/00c98578-dfb2-4d42-a4a3-1a8d47cad9b2)
+
+
 
 ## Overview
 
