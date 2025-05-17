@@ -4,10 +4,7 @@ A comprehensive computational physics simulation of quantum tunneling phenomena 
 
 ## Video Demonstration
 
-<video width="800" height="600" controls>
-  <source src="quantum_tunneling (3).mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Demo](quantum_tunneling (3).gif)
 
 ## Overview
 
